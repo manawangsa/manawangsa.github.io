@@ -1,0 +1,44 @@
+{
+  "maps": [
+	{
+      "name": "Santa Sackman",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/sesan.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/saman.zip"
+    },
+	{
+      "name": "The Mimicer",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/mimicer.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/mimicer.zip"
+    },
+    {
+      "name": "The 99 Night",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/nightforest.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/nightforest.zip"
+    },
+	{
+      "name": "The Boiled One",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boilo.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boilo.zip"
+    },
+	{
+      "name": "The Evil Nun",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/evilnun.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/evilnun.zip"
+    },
+	{
+      "name": "Granny's Escape",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/granys.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/granys.zip"
+    },
+    {
+      "name": "Scary Smileman",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/smileman.png",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/smileman.zip"
+    },
+	{
+      "name": "Verity",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/verhot.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/minvery.zip"
+    }
+  ]
+}

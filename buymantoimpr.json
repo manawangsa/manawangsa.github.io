@@ -1,0 +1,39 @@
+{
+  "maps": [
+	{
+      "name": "Toilet Multiverse",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/toimul.jpg",
+      "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster1.zip"
+    },
+	{
+      "name": "Toilet Multiverse V27",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/titanali.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/titanali.zip"
+    },
+	{
+      "name": "Animal World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.zip"
+    },
+	{
+      "name": "Modern City",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.zip"
+    },
+	{
+      "name": "Dino World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/dinwor.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/dinwor.zip"
+    },
+	{
+      "name": "Mega construction",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/mekostruk.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/mekostruk.zip"
+    },
+	{
+      "name": "Verity",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/verhot.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/minvery.zip"
+    }
+  ]
+}
