@@ -1,0 +1,19 @@
+{
+  "maps": [
+	{
+      "name": "The Boiled One",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/boled.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boiledone.zip"
+    },
+	{
+      "name": "The Boiled One Surviv",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boilo.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boilo.zip"
+    },
+	{
+      "name": "Ocean Monster",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/ocemons.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/ocemons.zip"
+    }
+  ]
+}

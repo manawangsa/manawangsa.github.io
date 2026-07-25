@@ -1,0 +1,19 @@
+{
+  "maps": [
+    {
+      "name": "Iron Hero City",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/roncit.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps1.zip"
+    },
+	{
+      "name": "Hero Crafting",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/ronting.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps3.zip"
+    },
+	{
+      "name": "Morph Into Mutants",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/morpmut.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/morpmut.zip"
+    }
+  ]
+}
