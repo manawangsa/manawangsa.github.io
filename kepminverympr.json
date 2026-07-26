@@ -1,0 +1,54 @@
+{
+  "maps": [
+	{
+      "name": "Verity Bedrock",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/minvery.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/minvery.zip"
+    },
+	{
+      "name": "Building Deluxe",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/delulife.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/delulife.zip"
+    },
+	{
+      "name": "Realistic modern house",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/reamodhou.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/reamodhou.zip"
+    },
+	{
+      "name": "Farm Ville",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/farmvil.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/farmvil.zip"
+    },
+	{
+      "name": "Furniture Modern House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/furnimohou.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/furnimohou.zip"
+    },
+	{
+      "name": "Snowy Village Ori",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/snowvil.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/snowvil.zip"
+    },
+	{
+      "name": "Kingdom Secrets",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/kingcret.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/kingcret.zip"
+    },
+	{
+      "name": "Dantdm's Hardcore re-creation",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/danrecreac.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/danrecreac.zip"
+    },
+	{
+      "name": "Pretty Kingdom",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/pretking.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/pretking.zip"
+    },
+	{
+      "name": "The Perfect Heist",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/pertheis.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/pertheis.zip"
+    }
+  ]
+}
