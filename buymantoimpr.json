@@ -11,19 +11,154 @@
       "file": "https://github.com/kodizar/majula/releases/download/lotek/titanali.zip"
     },
 	{
-      "name": "Animal World",
-      "image": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.jpeg",
-      "file": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.zip"
+      "name": "Titan Toilet Vs Shin",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/sontoil.jpg",
+      "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster2.zip"
     },
 	{
-      "name": "Modern City",
-      "image": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.jpg",
-      "file": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.zip"
+      "name": "Gundam Robo",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/gunrobo.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/gunrobo.zip"
     },
 	{
-      "name": "Dino World",
-      "image": "https://raw.githubusercontent.com/kodizar/majula/main/dinwor.jpg",
-      "file": "https://github.com/kodizar/majula/releases/download/lotek/dinwor.zip"
+      "name": "Ocean Monster",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/ocemons.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/ocemons.zip"
+    },
+	{
+      "name": "Playtime Battle",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/monster4.jpg",
+      "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster4.zip"
+    },
+	{
+      "name": "The Mimicer",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/mimicer.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/mimicer.zip"
+    },
+	{
+      "name": "Verity",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/verhot.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/minvery.zip"
+    },
+	{
+      "name": "Morph Into Mutants",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/morpmut.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/morpmut.zip"
+    },
+    {
+      "name": "The 99 Night in forest",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/nightforest.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/nightforest.zip"
+    },
+	{
+      "name": "The Boiled One",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boiledone.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boiledone.zip"
+    },
+	{
+      "name": "The Evil Nun",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/evilnun.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/evilnun.zip"
+    },
+	{
+      "name": "Granny Escape",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/granys.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/granys.zip"
+    },
+    {
+      "name": "Scary Smileman",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/smileman.png",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/smileman.zip"
+    },
+	{
+      "name": "Scary Mimic FNF",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/fmimic.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/fmimic.zip"
+    },
+	{
+      "name": "Scary Spunky Beat",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/beatsepu.jpg",
+      "file": "https://github.com/elisjaenudin/koleket/releases/download/candil/beatsepu.zip"
+    },
+	{
+      "name": "Italian Brainrot",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/monster3.jpg",
+      "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster3.zip"
+    },
+	{
+      "name": "Spunky Magic Beats",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spunkymagic.png",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spunkymagic.zip"
+    },
+	{
+      "name": "Dandy's World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/dandyroom.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/dandyroom.zip"
+    },
+	{
+      "name": "Spider Hero",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/termospanas1.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/herocraftmap1.zip"
+    },
+    {
+      "name": "Iron Hero",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/inventa.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/herocraftmap2.zip"
+    },
+	{
+      "name": "Hero Crafting",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/invena.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/herocraftmap3.zip"
+    },
+	{
+      "name": "Alien Watch",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/beluh.jpg",
+      "file": "https://github.com/elisjaenudin/koleket/releases/download/candil/alisepu.zip"
+    },
+	{
+      "name": "Shinobi Ninja",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noko.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/shinin.zip"
+    },
+	{
+      "name": "Ninja Konoha",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/niad.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/nakon.zip"
+    },
+	{
+      "name": "Filip Jeepney Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/fijepney.jpg",
+      "file": "https://github.com/elisjaenudin/koleket/releases/download/candil/fijepney.zip"
+    },
+	{
+      "name": "Spongeland Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/spongela.jpg",
+      "file": "https://github.com/elisjaenudin/koleket/releases/download/candil/spongela.zip"
+    },
+	{
+      "name": "Pet Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/petadvent.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/petadvent.zip"
+    },
+	{
+      "name": "One Block",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/stukotak.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/stukotak.zip"
+    },
+    {
+      "name": "Luckyblock Island",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/laskotak.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/laskotak.zip"
+    },
+	{
+      "name": "Ultimate Skyblock",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/flykotak.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/flykotak.zip"
+    },
+	{
+      "name": "Zoo Tycoon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/zotyco.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/zotyco.zip"
     },
 	{
       "name": "Mega construction",
@@ -31,9 +166,64 @@
       "file": "https://github.com/kodizar/majula/releases/download/lotek/mekostruk.zip"
     },
 	{
-      "name": "Verity",
-      "image": "https://raw.githubusercontent.com/kodizar/majula/main/verhot.jpg",
-      "file": "https://github.com/kodizar/majula/releases/download/lotek/minvery.zip"
+      "name": "Dragon World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.zip"
+    },
+	{
+      "name": "Dino World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/dinwor.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/dinwor.zip"
+    },
+	{
+      "name": "Building Deluxe",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/delulife.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/delulife.zip"
+    },
+	{
+      "name": "Realistic modern house",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/reamodhou.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/reamodhou.zip"
+    },
+	{
+      "name": "Farm Ville",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/farmvil.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/farmvil.zip"
+    },
+	{
+      "name": "Furniture Modern House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/furnimohou.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/furnimohou.zip"
+    },
+	{
+      "name": "Snowy Village Ori",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/snowvil.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/snowvil.zip"
+    },
+	{
+      "name": "Kingdom Secrets",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/kingcret.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/kingcret.zip"
+    },
+	{
+      "name": "Dantdm's Hardcore re-creation",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/danrecreac.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/danrecreac.zip"
+    },
+	{
+      "name": "Pretty Kingdom",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/pretking.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/pretking.zip"
+    },
+	{
+      "name": "The Perfect Heist",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/pertheis.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/pertheis.zip"
+    },
+	{
+      "name": "F.R.I.E.N.D",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/frends.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/frends.zip"
     }
   ]
 }
