@@ -1,0 +1,79 @@
+{
+  "maps": [
+    {
+      "name": "Verity Horror",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/verimanho.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/minvery.zip"
+    },
+	{
+      "name": "The Mimicer",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/mimicer.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/mimicer.zip"
+    },
+    {
+      "name": "The 99 Night",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/nightforest.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/nightforest.zip"
+    },
+	{
+      "name": "The Boiled One",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boilo.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boilo.zip"
+    },
+	{
+      "name": "The Evil Nun",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/evilnun.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/evilnun.zip"
+    },
+	{
+      "name": "Granny's Escape",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/granys.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/granys.zip"
+    },
+    {
+      "name": "Scary Smileman",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/smileman.png",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/smileman.zip"
+    },
+	{
+      "name": "Scary Spunky",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/beatsepu.jpg",
+      "file": "https://github.com/elisjaenudin/koleket/releases/download/candil/beatsepu.zip"
+    },
+	{
+      "name": "Scary Mimic FnF",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/fmimic.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/fmimic.zip"
+    },
+	{
+      "name": "Animal World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.zip"
+    },
+	{
+      "name": "Dino World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/dinwor.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/dinwor.zip"
+    },
+	{
+      "name": "Mega construction",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/mekostruk.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/mekostruk.zip"
+    },
+	{
+      "name": "Realistic modern house",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/reamodhou.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/reamodhou.zip"
+    },
+	{
+      "name": "Farm Ville",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/farmvil.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/farmvil.zip"
+    },
+	{
+      "name": "Furniture Modern House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/furnimohou.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/furnimohou.zip"
+    }
+  ]
+}
