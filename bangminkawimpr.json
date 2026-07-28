@@ -1,0 +1,39 @@
+{
+  "maps": [
+    {
+      "name": "Kawaii House",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/pinkrum.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/pinkrum.zip"
+    },
+	{
+      "name": "Kawaii Mansion",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.zip"
+    },
+	{
+      "name": "Zoo Tycoon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/zotyco.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/zotyco.zip"
+    },
+	{
+      "name": "Cherry Blossoms House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/cherhous.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/cherhous.zip"
+    },
+	{
+      "name": "Realistic modern house",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/reamodhou.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/reamodhou.zip"
+    },
+	{
+      "name": "Farm Ville",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/farmvil.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/farmvil.zip"
+    },
+	{
+      "name": "Furniture Modern House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/furnimohou.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/furnimohou.zip"
+    }
+  ]
+}
