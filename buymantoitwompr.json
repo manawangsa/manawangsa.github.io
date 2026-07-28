@@ -1,0 +1,29 @@
+{
+  "maps": [
+	{
+      "name": "Toilet Multiverse",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/toimul.jpg",
+      "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster1.zip"
+    },
+	{
+      "name": "Toilet Multiverse V27",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/titanali.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/titanali.zip"
+    },
+	{
+      "name": "Titan Toilet Vs Shin",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/sontoil.jpg",
+      "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster2.zip"
+    },
+	{
+      "name": "Gundam Robo",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/gunrobo.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/gunrobo.zip"
+    },
+	{
+      "name": "Ocean Monster",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/ocemons.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/ocemons.zip"
+    }
+  ]
+}
