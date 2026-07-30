@@ -1,0 +1,29 @@
+{
+  "maps": [
+	{
+      "name": "Master Building",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/masding.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/manpro.zip"
+    },
+	{
+      "name": "Modern City",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.zip"
+    },
+	{
+      "name": "Zoo Tycoon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/zotyco.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/zotyco.zip"
+    },
+	{
+      "name": "Mega construction",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/mekostruk.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/mekostruk.zip"
+    },
+	{
+      "name": "Dragon World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.zip"
+    }
+  ]
+}

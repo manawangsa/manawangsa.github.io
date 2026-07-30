@@ -1,0 +1,19 @@
+{
+  "maps": [
+	{
+      "name": "Survival Building",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/valding.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/manpro.zip"
+    },
+	{
+      "name": "Modern City",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.zip"
+    },
+	{
+      "name": "Zoo Tycoon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/zotyco.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/zotyco.zip"
+    }
+  ]
+}

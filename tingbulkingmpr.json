@@ -1,0 +1,14 @@
+{
+  "maps": [
+	{
+      "name": "Building King",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/bulking.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/bulking.zip"
+    },
+	{
+      "name": "Animal World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.zip"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "maps": [
+	{
+      "name": "Creative Building",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/tivebu.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/tivebu.zip"
+    },
+	{
+      "name": "Dragon World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/empiro.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.zip"
+    },
+	{
+      "name": "Modern City",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.zip"
+    }
+  ]
+}
