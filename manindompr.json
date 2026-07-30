@@ -1,0 +1,49 @@
+{
+  "maps": [
+    {
+      "name": "Nuansa Indonesia",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuandon.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/nuandon.zip"
+    },
+	{
+      "name": "Nuansa Jawa",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuanwa.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/nuanwa.zip"
+    },
+	{
+      "name": "Nuansa Pesona Budaya",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/reogya.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/reogya.zip"
+    },
+	{
+      "name": "Nuansa Bus",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuanbus.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/nuanbus.zip"
+    },
+	{
+      "name": "Bus Pariwisata",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/mizubus.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/mizubus.zip"
+    },
+	{
+      "name": "Nuansa Ramadhan",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuanramad.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/nuanramad.zip"
+    },
+	{
+      "name": "Kereta Kota MeyKorta",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuankakot.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/nuankakot.zip"
+    },
+	{
+      "name": "Nuansa Indo Perkeretaapian",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuaninkapi.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/nuaninkapi.zip"
+    },
+	{
+      "name": "Nuansa Railroad Spoor",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuansaspoor.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/nuansaspoor.zip"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "maps": [
+    {
+      "name": "Omnitrix Alien TNT",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/aliom.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/omniluh.zip"
+    },
+	{
+      "name": "Omnitrix Alien Watch",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/beluh.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/beluh.zip"
+    }
+  ]
+}
