@@ -1,0 +1,69 @@
+{
+  "maps": [
+	{
+      "name": "Verity Bedrock",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/mandrock.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/verhot.zip"
+    },
+	{
+      "name": "Dragon World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/empiro.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.zip"
+    },
+	{
+      "name": "Modern City",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.zip"
+    },
+	{
+      "name": "Dino World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/dinwor.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/dinwor.zip"
+    },
+	{
+      "name": "Mega construction",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/mekostruk.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/mekostruk.zip"
+    },
+	{
+      "name": "Animal World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.zip"
+    },
+	{
+      "name": "Realistic modern house",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/reamodhou.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/reamodhou.zip"
+    },
+	{
+      "name": "Farm Ville",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/farmvil.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/farmvil.zip"
+    },
+	{
+      "name": "Furniture Modern House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/furnimohou.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/furnimohou.zip"
+    },
+	{
+      "name": "One Block",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/stukotak.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/stukotak.zip"
+    },
+	{
+      "name": "Zoo Tycoon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/zotyco.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/zotyco.zip"
+    },
+    {
+      "name": "Luckyblock Island",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/laskotak.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/laskotak.zip"
+    },
+	{
+      "name": "Ultimate Skyblock",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/flykotak.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/flykotak.zip"
+    }
+  ]
+}
