@@ -54,16 +54,6 @@
       "name": "Zoo Tycoon",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/zotyco.jpg",
       "file": "https://github.com/kodizar/majula/releases/download/lotek/zotyco.zip"
-    },
-    {
-      "name": "Luckyblock Island",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/laskotak.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/laskotak.zip"
-    },
-	{
-      "name": "Ultimate Skyblock",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/flykotak.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/flykotak.zip"
     }
   ]
 }
