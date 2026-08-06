@@ -10,7 +10,7 @@
       "admob_reward": "ca-app-pub-2741234015952161/",
       "delay_home": 10000,
 	  "delay_main": 45000,
-      "delay_repeat_main": 250000,
+      "delay_repeat_main": 260000,
 	  "unity_inter": "Interstitial_Android",
       "unity_games": "xxxxxxx",
       "first_unity_ads": 40000,
