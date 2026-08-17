@@ -1,9 +1,9 @@
 {
   "Earning": [
     {
-	  "admob_banner": "ca-app-pub-3940256099942544/",
-	  "admob_inters": "ca-app-pub-3940256099942544/",
-      "admob_open": "ca-app-pub-3940256099942544/",
+	  "admob_banner": "ca-app-pub-2741234015952161/8741134172",
+	  "admob_inters": "ca-app-pub-2741234015952161/3680305842",
+      "admob_open": "ca-app-pub-2741234015952161/9677085594",
 	  "unity_inter": "Interstitial_Android",
       "unity_games": "xxxxxxx"
     }
