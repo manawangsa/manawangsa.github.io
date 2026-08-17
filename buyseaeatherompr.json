@@ -1,0 +1,34 @@
+{
+  "maps": [
+    {
+      "name": "Sea Eater",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/seaeathero.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/seaeathero.zip"
+    },
+	{
+      "name": "Spider Hero",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/bazpid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps2.zip"
+    },
+	{
+      "name": "Farm Ville",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/farmvil.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/farmvil.zip"
+    },
+	{
+      "name": "Furniture Modern House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/furnimohou.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/furnimohou.zip"
+    },
+	{
+      "name": "Snowy Village",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/snowvil.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/snowvil.zip"
+    },
+	{
+      "name": "Kingdom Secrets",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/kingcret.jpeg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/kingcret.zip"
+    }
+  ]
+}
