@@ -76,6 +76,11 @@
       "file": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.zip"
     },
 	{
+      "name": "Animal Hospital",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/anhospit.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/anhospit.zip"
+    },
+	{
       "name": "Verity",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/verhot.jpg",
       "file": "https://github.com/kodizar/majula/releases/download/lotek/verizon.zip"
