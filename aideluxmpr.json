@@ -56,6 +56,11 @@
       "file": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.zip"
     },
 	{
+      "name": "Animal Hospital",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/anhospit.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/anhospit.zip"
+    },
+	{
       "name": "Modern City",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.jpg",
       "file": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.zip"
