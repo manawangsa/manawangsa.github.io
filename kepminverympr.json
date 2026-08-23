@@ -6,6 +6,11 @@
       "file": "https://github.com/kodizar/majula/releases/download/lotek/minvery.zip"
     },
 	{
+      "name": "Animal Hospital",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/anhospit.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/anhospit.zip"
+    },
+	{
       "name": "Building Deluxe",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/delulife.jpeg",
       "file": "https://github.com/kodizar/majula/releases/download/lotek/delulife.zip"
