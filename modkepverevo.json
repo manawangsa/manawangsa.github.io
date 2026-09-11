@@ -1,0 +1,98 @@
+{
+  "maps": [
+	{
+      "name": "Verity",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/verhot.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/verhot.mcworld"
+    },
+	{
+      "name": "Realistic modern house",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/reamodhou.jpeg",
+      "file": "https://github.com/kodizar/awalberlalu/releases/download/bergantiru/reamodhou.mcworld"
+    },
+	{
+      "name": "Farm Ville",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/farmvil.jpeg",
+      "file": "https://github.com/kodizar/awalberlalu/releases/download/bergantiru/farmvil.mcworld"
+    },
+	{
+      "name": "Furniture Modern House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/furnimohou.jpeg",
+      "file": "https://github.com/kodizar/awalberlalu/releases/download/bergantiru/furnimohou.mcworld"
+    },
+	{
+      "name": "Zoo Tycoon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/zotyco.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/zotyco.mcworld"
+    },
+	{
+      "name": "Animal World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/animwo.mcworld"
+    }
+  ],
+  "addons": [
+    {
+      "name": "Verity Evolution",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/evoverzot.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/evoverzot.mcaddon"
+    },
+	{
+      "name": "ThatMob's Verity",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/mobverzot.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/mobverzot.mcaddon"
+    },
+	{
+      "name": "Morph Into Verity",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/intoverzot.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/intoverzot.mcaddon"
+    },
+	{
+      "name": "Falsity",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/falzotir.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/falzotir.mcaddon"
+    },
+	{
+      "name": "Animal Hospital",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/animahozot.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/animahozot.mcaddon"
+    },
+	{
+      "name": "Gugugaga Penguin",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/gugapeng.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/gugapeng.mcaddon"
+    },
+	{
+      "name": "IronHero Mod Addon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/mandrock.jpg",
+      "file": "https://github.com/kodizar/awalberlalu/releases/download/bergantiru/suironher.mcaddon"
+    },
+    {
+      "name": "Dragons Mod Addon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/empiro.jpg",
+      "file": "https://github.com/kodizar/awalberlalu/releases/download/bergantiru/kadragon.mcaddon"
+    }
+  ],
+  "skins": [
+    {
+      "name": "1000+ Skins",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/cepeskir.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/cepeskir.mcpack"
+    },
+	{
+      "name": "Legend",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/legend.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/legend.mcpack"
+    },
+	{
+      "name": "Youtuber Skins",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/skiyoutber.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/skiyoutber.mcpack"
+    },
+	{
+      "name": "Ben Alien Hero",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/bensepul.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/bensepul.mcpack"
+    }
+  ]
+}

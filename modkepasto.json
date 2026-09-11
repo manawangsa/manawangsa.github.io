@@ -1,0 +1,128 @@
+{
+  "maps": [
+    {
+      "name": "Titan Toilet",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/toimul.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/monster1.mcworld"
+    },
+	{
+      "name": "Titan Toilet V27",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/titanali.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/titanali.mcworld"
+    },
+    {
+      "name": "Titan Toilet Vs Shin",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/sontoil.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/monster2.mcworld"
+    },
+	{
+      "name": "Gundam Robo",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/gunrobo.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/gunrobo.mcworld"
+    },
+	{
+      "name": "Ocean Monster",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/ocemons.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/ocemons.mcworld"
+    },
+	{
+      "name": "Playtime Battle",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/monster4.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/monster4.mcworld"
+    },
+	{
+      "name": "Scary Spunky",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/beatsepu.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/beatsepu.mcworld"
+    },
+	{
+      "name": "Italian Brainrot",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/monster3.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/monster3.mcworld"
+    },
+	{
+      "name": "Spunky Magic Beats",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spunkymagic.png",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/spunkymagic.mcworld"
+    },
+	{
+      "name": "Dandy's World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow2.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/rainbow2.mcworld"
+    },
+	{
+      "name": "Dandy's Horror",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/denho.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/denho.mcworld"
+    }
+  ],
+  "addons": [
+    {
+      "name": "SKIBIDI TOILET",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/skibitoido.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/skibitoido.mcaddon"
+    },
+	{
+      "name": "SKIBITOI v.27",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/titanali.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/titanali.mcaddon"
+    },
+	{
+      "name": "Falsity",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/falzotir.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/falzotir.mcaddon"
+    },
+	{
+      "name": "ThatMob's Verity",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/mobverzot.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/mobverzot.mcaddon"
+    },
+	{
+      "name": "Morph Into Verity",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/intoverzot.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/intoverzot.mcaddon"
+    },
+	{
+      "name": "Verity Evolution",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/evoverzot.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/evoverzot.mcaddon"
+    },
+	{
+      "name": "Animal Hospital",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/animahozot.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/animahozot.mcaddon"
+    },
+	{
+      "name": "Gugugaga Penguin",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/gugapeng.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/gugapeng.mcaddon"
+    },
+    {
+      "name": "Dragons Mod Addon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/empiro.jpg",
+      "file": "https://github.com/kodizar/awalberlalu/releases/download/bergantiru/kadragon.mcaddon"
+    }
+  ],
+  "skins": [
+	{
+      "name": "1000+ Skins",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/cepeskir.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/cepeskir.mcpack"
+    },
+	{
+      "name": "Legend",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/legend.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/legend.mcpack"
+    },
+	{
+      "name": "Youtuber Skins",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/skiyoutber.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/skiyoutber.mcpack"
+    },
+	{
+      "name": "Ben Alien Hero",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/bensepul.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/bensepul.mcpack"
+    }
+  ]
+}
