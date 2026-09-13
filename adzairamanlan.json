@@ -1,14 +1,14 @@
 {
   "Gallon": [
     {
-	  "inters_home": "ca-app-pub-2741234015952161/",
+	  "inters_home": "ca-app-pub-2741234015952161/1113184651",
 	  "inters_mods": "ca-app-pub-2741234015952161/",
-	  "inters_main": "ca-app-pub-2741234015952161/",
-	  "inters_play": "ca-app-pub-2741234015952161/",
+	  "inters_main": "ca-app-pub-2741234015952161/1113184651",
+	  "inters_play": "ca-app-pub-2741234015952161/1113184651",
 	  "inters_enter_world": "ca-app-pub-2741234015952161/",
-	  "inters_exit_world": "ca-app-pub-2741234015952161/",
-	  "inters_repeat_main": "ca-app-pub-2741234015952161/",
-	  "admob_openAd": "ca-app-pub-2741234015952161/",
+	  "inters_exit_world": "ca-app-pub-2741234015952161/1113184651",
+	  "inters_repeat_main": "ca-app-pub-2741234015952161/1113184651",
+	  "admob_openAd": "ca-app-pub-2741234015952161/2232084381",
       "delay_home": 10000,
 	  "delay_mods": 10000,
 	  "delay_main": 45000,
