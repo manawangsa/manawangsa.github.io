@@ -1,0 +1,168 @@
+{
+  "maps": [
+	{
+      "name": "Nuansa Indonesia",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuandon.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/nuandon.mcworld"
+    },
+	{
+      "name": "Nuansa Jawa",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuanwa.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/nuanwa.mcworld"
+    },
+	{
+      "name": "Nuansa Pesona Budaya",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/reogya.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/reogya.mcworld"
+    },
+	{
+      "name": "Nuansa Bus",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuanbus.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/nuanbus.mcworld"
+    },
+	{
+      "name": "Bus Pariwisata",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/mizubus.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/mizubus.mcworld"
+    },
+	{
+      "name": "Nuansa Ramadhan",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuanramad.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/nuanramad.mcworld"
+    },
+	{
+      "name": "Kereta Kota MeyKorta",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuankakot.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/nuankakot.mcworld"
+    },
+	{
+      "name": "Nuansa Indo Perkeretaapian",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuaninkapi.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/nuaninkapi.mcworld"
+    },
+	{
+      "name": "Nuansa Desa Railroad Spoor",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuansaspoor.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/nuansaspoor.mcworld"
+    },
+	{
+      "name": "Horror Kuntilanak",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/horrorkunti.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/horrorkunti.mcworld"
+    },
+	{
+      "name": "Horror Lampor",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/horrorlampor.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/horrorlampor.mcworld"
+    },
+	{
+      "name": "Horror Malamsuro",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/horrormalamsuro.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/horrormalamsuro.mcworld"
+    },
+	{
+      "name": "Escape from Pocong",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/horrorpocong.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/horrorpocong.mcworld"
+    }
+  ],
+  "addons": [
+    {
+      "name": "World Animals",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/woraniza.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/woraniza.mcaddon"
+    },
+    {
+      "name": "Dinosurus Time addon",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/dinoetim.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/dinoetim.mcaddon"
+    },
+	{
+      "name": "Eater of seas",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/ethersea.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/ethersea.mcaddon"
+    },
+	{
+      "name": "Vibrant Visuals Extreme",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/vibranvisual.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/vibranvisual.mcaddon"
+    },
+	{
+      "name": "Ore UI Dark Mode",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/oreuidark.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/oreuidark.mcaddon"
+    },
+    {
+      "name": "No lag shader",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/nolagsader.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/nolagsader.mcaddon"
+    },
+	{
+      "name": "Instant House Mod",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/instahous.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/instahous.mcaddon"
+    },
+	{
+      "name": "Classic Shader",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/classic_shader.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/classic_shader.mcaddon"
+    },
+    {
+      "name": "Cinematic Visuals",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/cinemativisu.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/cinemativisu.mcaddon"
+    },
+	{
+      "name": "Play Dynamic",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/aenes.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/aenes.mcaddon"
+    },
+	{
+      "name": "ArcModern",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/arcmodern.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/arcmodern.mcaddon"
+    },
+    {
+      "name": "Realistic Shader",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/asmc_shaders.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/asmc_shaders.mcaddon"
+    },
+	{
+      "name": "Classic resource pack",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/classic.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/classic.mcaddon"
+    },
+	{
+      "name": "F8thful",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/f8.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/f8.mcaddon"
+    },
+    {
+      "name": "Barebones",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/barebons.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/barebons.mcaddon"
+    }
+  ],
+  "skins": [
+    {
+      "name": "Legend",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/legend.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/legend.mcpack"
+    },
+	{
+      "name": "1000+ Skins",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/cepeskir.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/cepeskir.mcpack"
+    },
+	{
+      "name": "Ben Alien Hero",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/bensepul.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/bensepul.mcpack"
+    },
+	{
+      "name": "Youtuber Skins",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/skiyoutber.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/skiyoutber.mcpack"
+    }
+  ]
+}
