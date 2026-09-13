@@ -1,0 +1,153 @@
+{
+  "maps": [
+	{
+      "name": "Realistic modern house",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/reamodhou.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/reamodhou.mcworld"
+    },
+	{
+      "name": "Farm Ville",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/farmvil.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/farmvil.mcworld"
+    },
+	{
+      "name": "Furniture Modern House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/furnimohou.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/furnimohou.mcworld"
+    },
+	{
+      "name": "Snowy Village Ori",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/snowvil.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/snowvil.mcworld"
+    },
+	{
+      "name": "Kingdom Secrets",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/kingcret.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/kingcret.mcworld"
+    },
+	{
+      "name": "Dantdm's Hardcore re-creation",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/danrecreac.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/danrecreac.mcworld"
+    },
+	{
+      "name": "Pretty Kingdom",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/pretking.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/pretking.mcworld"
+    },
+	{
+      "name": "The Perfect Heist",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/pertheis.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/pertheis.mcworld"
+    },
+	{
+      "name": "F.R.I.E.N.D",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/frends.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/frends.mcworld"
+    },
+	{
+      "name": "Zoo Tycoon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/zotyco.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/zotyco.mcworld"
+    },
+	{
+      "name": "Animal World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/animwo.mcworld"
+    }
+  ],
+  "addons": [
+    {
+      "name": "Vibrant Visuals Extreme",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/vibranvisual.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/vibranvisual.mcaddon"
+    },
+	{
+      "name": "Ore UI Dark Mode",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/oreuidark.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/oreuidark.mcaddon"
+    },
+    {
+      "name": "No lag shader",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/nolagsader.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/nolagsader.mcaddon"
+    },
+	{
+      "name": "Instant House Mod",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/instahous.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/instahous.mcaddon"
+    },
+	{
+      "name": "Classic Shader",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/classic_shader.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/classic_shader.mcaddon"
+    },
+    {
+      "name": "Cinematic Visuals",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/cinemativisu.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/cinemativisu.mcaddon"
+    },
+	{
+      "name": "Play Dynamic",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/aenes.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/aenes.mcaddon"
+    },
+	{
+      "name": "ArcModern",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/arcmodern.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/arcmodern.mcaddon"
+    },
+    {
+      "name": "Realistic Shader",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/asmc_shaders.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/asmc_shaders.mcaddon"
+    },
+	{
+      "name": "Classic resource pack",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/classic.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/classic.mcaddon"
+    },
+	{
+      "name": "F8thful",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/f8.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/f8.mcaddon"
+    },
+    {
+      "name": "Barebones",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/barebons.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/barebons.mcaddon"
+    },
+	{
+      "name": "Simple Guns",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/simguns.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/simguns.mcaddon"
+    },
+	{
+      "name": "World Animals",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/woraniza.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/woraniza.mcaddon"
+    }
+  ],
+  "skins": [
+	{
+      "name": "1000+ Skins",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/cepeskir.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/cepeskir.mcpack"
+    },
+	{
+      "name": "Legend",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/legend.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/legend.mcpack"
+    },
+	{
+      "name": "Ben Alien Hero",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/bensepul.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/bensepul.mcpack"
+    },
+	{
+      "name": "Youtuber Skins",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/skiyoutber.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/skiyoutber.mcpack"
+    }
+  ]
+}
