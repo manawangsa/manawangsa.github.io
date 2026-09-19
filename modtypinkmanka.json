@@ -1,0 +1,118 @@
+{
+  "maps": [
+	{
+      "name": "PinkCraft",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/pinkawi.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/pinkawi.mcworld"
+    },
+	{
+      "name": "Livelly Villege",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/livelivile.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/livelivile.mcworld"
+    },
+	{
+      "name": "Comes Alive",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/comelife.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/comelife.mcworld"
+    }
+  ],
+  "addons": [
+    {
+      "name": "Comes Alive",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/comelife.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/comalidon.mcaddon"
+    },
+	{
+      "name": "Vibrant Visuals Extreme",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/vibranvisual.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/vibranvisual.mcaddon"
+    },
+	{
+      "name": "Ore UI Dark Mode",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/oreuidark.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/oreuidark.mcaddon"
+    },
+    {
+      "name": "No lag shader",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/nolagsader.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/nolagsader.mcaddon"
+    },
+	{
+      "name": "Instant House Mod",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/instahous.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/instahous.mcaddon"
+    },
+	{
+      "name": "Classic Shader",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/classic_shader.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/classic_shader.mcaddon"
+    },
+    {
+      "name": "Cinematic Visuals",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/cinemativisu.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/cinemativisu.mcaddon"
+    },
+	{
+      "name": "Play Dynamic",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/aenes.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/aenes.mcaddon"
+    },
+	{
+      "name": "ArcModern",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/arcmodern.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/arcmodern.mcaddon"
+    },
+    {
+      "name": "Realistic Shader",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/asmc_shaders.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/asmc_shaders.mcaddon"
+    },
+	{
+      "name": "Classic resource pack",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/classic.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/classic.mcaddon"
+    },
+	{
+      "name": "F8thful",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/f8.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/f8.mcaddon"
+    },
+    {
+      "name": "Barebones",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/barebons.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/barebons.mcaddon"
+    },
+	{
+      "name": "Aveo Dragon",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/aevodrag.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/aevodrag.mcaddon"
+    },
+	{
+      "name": "World Animals",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/woraniza.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/woraniza.mcaddon"
+    }
+  ],
+  "skins": [
+    {
+      "name": "Legend",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/legend.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/legend.mcpack"
+    },
+	{
+      "name": "1000+ Skins",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/cepeskir.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/cepeskir.mcpack"
+    },
+	{
+      "name": "Ben Alien Hero",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/bensepul.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/bensepul.mcpack"
+    },
+	{
+      "name": "Youtuber Skins",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/skiyoutber.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/skiyoutber.mcpack"
+    }
+  ]
+}
