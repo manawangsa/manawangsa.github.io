@@ -21,6 +21,11 @@
       "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/delulife.mcworld"
     },
 	{
+      "name": "Comes Alive",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/comelife.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/comelife.mcworld"
+    },
+	{
       "name": "Realistic modern house",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/reamodhou.jpeg",
       "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/reamodhou.mcworld"
@@ -258,6 +263,11 @@
   ],
   "addons": [
     {
+      "name": "Comes Alive",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/comelife.jpeg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/comalidon.mcaddon"
+    },
+	{
       "name": "Vibrant Visuals Extreme",
       "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/vibranvisual.jpg",
       "file": "https://github.com/manawangsa/sukropak/releases/download/selangseling/vibranvisual.mcaddon"
